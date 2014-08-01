@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+# Messaging so we can tell everyone when assets change
+gem 'bunny'
+
